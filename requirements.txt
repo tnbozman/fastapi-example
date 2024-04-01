@@ -2,6 +2,7 @@ fastapi[all]
 sqlalchemy
 alembic
 uvicorn[standard]
+gunicorn
 databases[sqlite]
 pydantic
 psycopg2
