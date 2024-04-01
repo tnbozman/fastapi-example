@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "pip" # Target the Python package ecosystem
+    directory: "/" # Directory where package manifests are located, "/" for the repository root
+    schedule:
+      interval: "weekly" # Frequency of update checks
+    open-pull-requests-limit: 5 # Limits the number of open pull requests
