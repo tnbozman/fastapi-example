@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Conventional Commit Lint
-      uses: tnbozman/devsecops-platform/git/conventional-commit-action.yaml@main
+      uses: tnbozman/devsecops-platform/git/conventional-commit@main
