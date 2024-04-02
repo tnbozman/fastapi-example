@@ -1,2 +1,2 @@
 # fastapi-example
-FastAPI example for DevSecOps training
+FastAPI example for DevSecOps training 
